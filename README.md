@@ -7,6 +7,20 @@
 
 ----
 
-### About me. 🕵🏻
-- I'm a student of intelligent computing engineering. 👨🏻‍💻
-- 
+### 🕵🏻 About Me :
+
+- 👨🏻‍💻 I'm a student of intelligent computing engineering.
+  
+- 🔥 I have a small business of spicy gummies.
+  
+- 💪🏼 I go to the gym often.
+
+<div align="left">
+    <h3>💻 Languages :</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" 
+        title="Dart" **alt="Dart" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
+        title="Python" **alt="Python"width="40" height="40"/>
+    </div>
+</div>
