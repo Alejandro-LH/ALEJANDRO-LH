@@ -10,10 +10,6 @@
 ### 🕵🏻 About Me :
 
 - 👨🏻‍💻 I'm a student of intelligent computing engineering.
-  
-- 🔥 I have a small business of spicy gummies.
-  
-- 💪🏼 I go to the gym often.
 
 <div align="left">
     <h3>💻 Languages :</h3>
