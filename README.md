@@ -163,6 +163,28 @@ Key features:
 - Structured service-based design
 
 ---
+## AI Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+---
+
+## Publications
+
+Transforming Education: An Automated Platform for Personalized Content Generation  
+Authors: Alejandro López et al.  
+2025  
+
+Read the paper:  
+https://www.researchgate.net/profile/Walter-Mata/publication/388958326_Transforming_Education_An_Automated_Platform_for_Personalized_Content_Generation/links/67ae2e314c479b26c9dfcc50/Transforming-Education-An-Automated-Platform-for-Personalized-Content-Generation.pdf
+
+---
 
 ## GitHub Stats
 
