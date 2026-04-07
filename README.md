@@ -5,7 +5,7 @@
 
 <h3 align="center">
 Engineering student in Intelligent Computing at Universidad de Colima, México.  
-I design and build real software and hardware systems — from mobile applications and backend APIs to IoT devices and embedded solutions.
+I design and build real software and hardware systems from mobile applications and backend APIs to IoT devices and embedded solutions.
 </h3>
 
 </div>
@@ -16,7 +16,7 @@ I design and build real software and hardware systems — from mobile applicatio
 
 I'm an engineering student focused on building practical technology solutions that solve real-world problems.
 
-I enjoy understanding systems from end to end — from user interfaces and databases to hardware, sensors, and automation.
+I enjoy understanding systems from end to end from user interfaces and databases to hardware, sensors, and automation.
 
 Currently, I work on mobile applications, backend systems, and IoT-based monitoring and control devices, combining software and hardware to create reliable and scalable solutions.
 
@@ -148,7 +148,5 @@ Key features:
 ## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alejandro-LH&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-LH&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
