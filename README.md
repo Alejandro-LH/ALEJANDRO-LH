@@ -163,6 +163,7 @@ Key features:
 - Structured service-based design
 
 ---
+
 ## AI Tools
 
 <p align="left">
@@ -173,6 +174,7 @@ Key features:
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/NotebookLM-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
 ---
 
 ## Publications
