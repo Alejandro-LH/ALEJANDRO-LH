@@ -1,191 +1,102 @@
 <div id="header" align="center"> 
-    <img src="https://media.giphy.com/media/82MkOzEyyXeSLkgWyv/giphy.gif" width="180"/>
+    <img src="https://media.giphy.com/media/82MkOzEyyXeSLkgWyv/giphy.gif" width="170"/>
 
 <h1 align="center">Hi 👋🏼, I'm Alejandro</h1>
 
 <h3 align="center">
 Engineering student in Intelligent Computing at Universidad de Colima, México.  
-I build real software and hardware solutions from mobile apps and backend systems to IoT devices.
+I build real software and hardware solutions — from mobile apps and backend systems to IoT devices.
 </h3>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm an engineering student passionate about building systems that solve real problems.
+I'm passionate about building systems that solve real problems.  
+I enjoy understanding how technology works from end to end — from user interfaces to hardware.
 
-Throughout my career, I have worked on mobile applications, backend services, databases, and IoT devices.  
-I enjoy understanding how systems work from end to end from the user interface to the hardware level.
+I focus on building scalable solutions, learning continuously, and turning ideas into working products.
 
-I believe in continuous improvement, clean architecture, and building solutions that scale.
-
-Outside of technology, I enjoy training at the gym and staying disciplined in both physical and mental development.
+Outside of technology, I enjoy training at the gym and staying disciplined.
 
 ---
 
-## 🚀 What I Do
+## What I Work With
 
-- 📱 Mobile application development
-- 🌐 Backend and API development
-- 🧱 Software architecture and system design
-- 🗄️ Database design and data management
-- 🔌 IoT development with microcontrollers
-- 🛠️ Problem solving and system integration
-- 📊 Building real-world technology solutions
+### Programming Languages
 
----
+<p align="left">
 
-## 💻 Programming Languages
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
 
-- Swift
-- Dart
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- C++
-- Bash
+</p>
 
 ---
 
-## 🧰 Frameworks & Technologies
+### Frameworks & Technologies
 
-- SwiftUI
-- Flutter
-- Node.js
-- Express
-- Supabase
-- REST APIs
-- JSON / HTTP
-- Git
-- GitHub
-- Expo
-- Firebase (basic)
-- Linux / macOS environment
+<p align="left">
 
----
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"/>
 
-## 🗄️ Databases
-
-- PostgreSQL
-- Supabase
-- SQLite
-- Local persistence (SwiftData)
+</p>
 
 ---
 
-## 🔌 Hardware & IoT
+### Databases
 
-- ESP32
-- Sensors (Temperature, Humidity, Environmental)
-- OLED displays
-- Relays
-- Infrared communication
-- Embedded systems
-- Hardware integration
-- Real-time monitoring systems
+<p align="left">
 
----
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="40" height="40"/>
 
-## 🧪 Tools I Use
-
-- Xcode
-- Visual Studio Code
-- Arduino IDE
-- Git
-- GitHub
-- Postman
-- Terminal / CLI
-- Node.js
-- npm
-- Supabase Dashboard
+</p>
 
 ---
 
-## 📌 Projects I've Worked On
+### Tools
 
-### Personal Finance Mobile Application
+<p align="left">
 
-- Native iOS development
-- Local data persistence
-- Financial tracking
-- Statistics and visualization
-- Architecture and versioning
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 
----
-
-### Blood Donation Platform
-
-- Mobile app concept and design
-- User roles (donor / requester)
-- System logic and validation
-- Backend integration planning
+</p>
 
 ---
 
-### IoT Environmental Monitoring System
+## Projects
 
-- ESP32-based system
-- Temperature and humidity monitoring
-- Alert system and automation
-- Sensor integration
-- Real-time data visualization
-
----
-
-### Backend Systems
-
-- API development
-- Database design
-- Authentication logic
-- System integration
-- Local and cloud environments
+- Personal Finance Mobile Application  
+- Blood Donation Platform  
+- IoT Environmental Monitoring System  
+- Backend Systems and APIs  
 
 ---
 
-## 🧭 My Approach to Technology
-
-I focus on:
-
-- Understanding systems deeply
-- Writing maintainable code
-- Building scalable solutions
-- Solving real problems
-- Learning continuously
-- Delivering working products
-
----
-
-## 📈 Currently Learning
-
-- Software architecture
-- Backend development
-- System scalability
-- Cloud services
-- IoT system integration
-- Artificial Intelligence fundamentals
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alejandro-LH&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-LH&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 🎯 Philosophy
-
-Build.  
-Learn.  
-Improve.  
-Repeat.
-
----
-
-## 📫 Contact
-
-GitHub: https://github.com/Alejandro-LH
