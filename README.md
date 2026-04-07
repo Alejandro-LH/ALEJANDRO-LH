@@ -20,10 +20,6 @@ I enjoy understanding systems from end to end from user interfaces and databases
 
 Currently, I develop mobile applications, backend systems, and IoT-based monitoring devices, combining software and hardware to create reliable and functional solutions.
 
-I value discipline, consistency, and continuous learning.
-
-Currently seeking an internship to apply my skills in real-world engineering environments and continue developing as a software and systems engineer.
-
 ---
 
 ## Focus Areas
