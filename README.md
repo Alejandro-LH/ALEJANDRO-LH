@@ -5,7 +5,7 @@
 
 <h3 align="center">
 Engineering student in Intelligent Computing at Universidad de Colima, México.  
-I design and build real software and hardware systems from mobile applications and backend APIs to IoT devices and embedded solutions.
+I build practical software and hardware solutions from mobile applications and backend systems to IoT devices and automation projects.
 </h3>
 
 </div>
@@ -18,9 +18,11 @@ I'm an engineering student focused on building practical technology solutions th
 
 I enjoy understanding systems from end to end from user interfaces and databases to hardware, sensors, and automation.
 
-Currently, I work on mobile applications, backend systems, and IoT-based monitoring and control devices, combining software and hardware to create reliable and scalable solutions.
+Currently, I develop mobile applications, backend systems, and IoT-based monitoring devices, combining software and hardware to create reliable and functional solutions.
 
 I value discipline, consistency, and continuous learning.
+
+Currently seeking an internship to apply my skills in real-world engineering environments and continue developing as a software and systems engineer.
 
 ---
 
@@ -30,7 +32,7 @@ I value discipline, consistency, and continuous learning.
 - Backend Systems and API Design  
 - IoT and Embedded Systems  
 - Software and Hardware Integration  
-- Real-world problem solving through technology  
+- Problem solving through technology  
 
 ---
 
@@ -44,6 +46,18 @@ I value discipline, consistency, and continuous learning.
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+### Web & Documentation Technologies
+
+<p align="left">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>
 
 </p>
 
@@ -90,33 +104,16 @@ I value discipline, consistency, and continuous learning.
 
 ---
 
+### Productivity & Data Tools
+
+- Microsoft Excel (data analysis, formulas, structured tables)
+- LaTeX (technical documentation)
+- Git and GitHub (version control)
+- API testing with Postman
+
+---
+
 ## Projects
-
-### Personal Finance Mobile Application
-
-Mobile application developed for managing personal finances, tracking income and expenses, and monitoring financial behavior.
-
-Key features:
-
-- Built using SwiftUI architecture
-- Local data persistence with structured models
-- Transaction tracking and financial summaries
-- Scalable design for future automation features
-
----
-
-### Blood Donation Platform
-
-Mobile and backend system designed to connect blood donors and recipients quickly and efficiently.
-
-Key features:
-
-- User registration for donors and recipients
-- Priority system based on donation history
-- Notification and request management system
-- Designed to support hospitals and emergency situations
-
----
 
 ### IoT Environmental Monitoring System
 
@@ -125,22 +122,48 @@ Hardware and software system designed to monitor environmental conditions and tr
 Key features:
 
 - Built using ESP32 microcontroller
-- Temperature and humidity monitoring using sensors
-- Real-time alerts using LEDs and buzzer
-- Relay-based device control for automated ventilation
-- Designed for storage and environmental control scenarios
+- Reads temperature and humidity from sensors
+- Triggers visual and sound alerts when thresholds are exceeded
+- Controls external devices using relays
+- Designed and tested for real monitoring scenarios
+
+---
+
+### Personal Finance Mobile Application
+
+Mobile application developed to manage personal finances and monitor financial behavior.
+
+Key features:
+
+- Built using SwiftUI architecture
+- Tracks income and expenses
+- Generates financial summaries
+- Designed for personal financial management
+
+---
+
+### Blood Donation Platform
+
+Mobile and backend system designed to connect donors and recipients in emergency situations.
+
+Key features:
+
+- User registration system
+- Donation request management
+- Notification system design
+- Designed as a social-impact solution
 
 ---
 
 ### Backend Systems and APIs
 
-Development of backend services and APIs for mobile applications and system communication.
+Development of backend services for communication between applications and databases.
 
 Key features:
 
 - REST API architecture
 - Authentication and data management
-- Integration with databases
+- Database integration
 - Structured service-based design
 
 ---
