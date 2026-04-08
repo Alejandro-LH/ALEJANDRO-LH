@@ -138,19 +138,6 @@ Key features:
 
 ---
 
-### Blood Donation Platform
-
-Mobile and backend system designed to connect donors and recipients in emergency situations.
-
-Key features:
-
-- User registration system
-- Donation request management
-- Notification system design
-- Designed as a social-impact solution
-
----
-
 ### Backend Systems and APIs
 
 Development of backend services for communication between applications and databases.
