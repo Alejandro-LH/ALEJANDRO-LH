@@ -56,11 +56,6 @@ Java
 </td>
 
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/><br>
-C
-</td>
-
-<td align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
 C++
 </td>
@@ -90,16 +85,6 @@ CSS3
 LaTeX
 </td>
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/json" width="40"/><br>
-JSON
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/openapiinitiative" width="40"/><br>
-REST API
-</td>
-
 </tr>
 </table>
 
@@ -113,16 +98,6 @@ REST API
 <td align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/><br>
 Flutter
-</td>
-
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/><br>
-Node.js
-</td>
-
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40"/><br>
-Express
 </td>
 
 <td align="center">
@@ -171,17 +146,17 @@ Ubuntu
 <tr>
 
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/><br>
-PostgreSQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
+MySQL
 </td>
 
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40"/><br>
-SQLite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>
+MongoDB
 </td>
 
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="40"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/><br>
 Supabase
 </td>
 
@@ -211,18 +186,13 @@ Android Studio
 </td>
 
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/><br>
-Docker
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40"/><br>
+Arduino IDE
 </td>
 
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40"/><br>
-Postman
-</td>
-
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40"/><br>
-npm
+<img src="https://lmstudio.ai/favicon.ico" width="40"/><br>
+LM Studio
 </td>
 
 <td align="center">
@@ -233,11 +203,6 @@ Ollama
 <td align="center">
 <img src="https://cdn.simpleicons.org/overleaf" width="40"/><br>
 Overleaf
-</td>
-
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40"/><br>
-Arduino IDE
 </td>
 
 </tr>
