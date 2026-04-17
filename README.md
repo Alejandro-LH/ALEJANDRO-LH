@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <div id="header" align="center"> 
     <img src="https://media.giphy.com/media/82MkOzEyyXeSLkgWyv/giphy.gif" width="170"/>
 
@@ -8,6 +12,20 @@ Engineering student in Intelligent Computing at Universidad de Colima, México.
 I build practical software and hardware solutions from mobile applications and backend systems to IoT devices and automation projects.
 </h3>
 
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandrolh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/alejandrolh20/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/Jahir.alejandro.89" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
 </div>
 
 ---
@@ -287,3 +305,32 @@ Read the paper:
 https://www.researchgate.net/profile/Walter-Mata/publication/388958326_Transforming_Education_An_Automated_Platform_for_Personalized_Content_Generation/links/67ae2e314c479b26c9dfcc50/Transforming-Education-An-Automated-Platform-for-Personalized-Content-Generation.pdf
 
 ---
+
+<br clear="both">
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-LH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandro-LH&radius=16&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-LH/Alejandro-LH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-LH/Alejandro-LH/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alejandro-LH/Alejandro-LH/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alejandro-LH.Alejandro-LH&"  />
+</div>
+
+###
