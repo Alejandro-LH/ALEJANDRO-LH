@@ -54,10 +54,6 @@ I'm an engineering student who enjoys building practical technology solutions an
 <div align="center">
 <table>
 <tr>
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40"/><br>
-Swift
-</td>
  
 <td align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/><br>
@@ -78,9 +74,16 @@ Java
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
 C++
 </td>
+
+<td align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40"/><br>
+Swift
+</td>
 </tr>
 </table>
 </div>
+
+
  
 ---
 
@@ -115,26 +118,6 @@ LaTeX
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/><br>
-Flutter
-</td>
- 
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/><br>
-Docker
-</td>
- 
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/><br>
-Git
-</td>
- 
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40"/><br>
-GitHub
-</td>
- 
-<td align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40"/><br>
 Windows
 </td>
@@ -153,6 +136,28 @@ Linux
 <img src="https://cdn.simpleicons.org/ubuntu" width="40"/><br>
 Ubuntu
 </td>
+ 
+<td align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/><br>
+Docker
+</td>
+
+<td align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/><br>
+Flutter
+</td>
+ 
+<td align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/><br>
+Git
+</td>
+ 
+<td align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40"/><br>
+GitHub
+</td>
+ 
+
 </tr>
 </table>
 </div>
@@ -190,13 +195,13 @@ Supabase
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40"/><br>
-Xcode
-</td>
- 
-<td align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/><br>
 VS Code
+</td>
+  
+<td align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40"/><br>
+Xcode    
 </td>
  
 <td align="center">
