@@ -322,7 +322,7 @@ Key features:
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alejandro-LH.Alejandro-LH&"  />
 </div>
 
