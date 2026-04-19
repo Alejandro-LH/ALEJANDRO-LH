@@ -307,7 +307,13 @@ Key features:
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-LH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Alejandro-LH&theme=dracula" height="150" />
+  </a>
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Alejandro-LH?cardType=github&theme=dracula&fontFamily=Arial&preferLogin=false" height="150" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-LH&layout=donut&theme=dracula" height="150" />
 </div>
 
 ###
