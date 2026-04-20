@@ -56,18 +56,18 @@ I'm an engineering student who enjoys building practical technology solutions an
 <tr>
  
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/><br>
-Dart
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/><br>
+Java
 </td>
  
 <td align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/><br>
 Python
 </td>
- 
+
 <td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/><br>
-Java
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/><br>
+Dart
 </td>
  
 <td align="center">
