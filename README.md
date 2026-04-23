@@ -302,15 +302,7 @@ Key features:
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
 
-<br clear="both">
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Alejandro-LH?cardType=github&theme=dark&fontFamily=&preferLogin=false" height="150" />
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alejandro-LH&theme=dark" height="150" />
-</div>
 
 ###
 
