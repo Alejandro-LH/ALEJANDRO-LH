@@ -16,6 +16,20 @@ I build practical software and hardware solutions from mobile applications and b
 
 ---
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandrolh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="400" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/alejandrolh20/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="400" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/Jahir.alejandro.89" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="400" alt="facebook logo"  />
+  </a>
+</div>
+
+---
+
 <h2 align="center">About Me</h2>
 
 I'm an engineering student who enjoys building practical technology solutions and understanding how systems work from end to end. I like working across different layers of a system from applications and backend services to databases and development environments and focusing on creating reliable solutions that can be used in real scenarios.
